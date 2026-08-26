@@ -1,0 +1,19 @@
+StreamFlix Movie Recommendation Sorter
+Enter CSV filename (format: title,year,rating,watchtime): movies.csv
+
+Loaded 100 movies.
+
+Sort by:
+1. IMDB Rating
+2. Release Year
+3. Watch Time Popularity
+Enter choice: 1
+
+How many top results to display? 5
+
+Sorted Recommendations:
+
+ID    Title                          Year     Rating   WatchTime
+25    Interstellar                   2014     8.7      169
+48    Inception                      2010     8.8      148
+...
